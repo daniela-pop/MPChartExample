@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gcm3_chart_gradient_purple_blue_start">#9c00ff</color>
+    <color name="gcm3_chart_gradient_purple_blue_end">#3ff1ff</color>
+    <color name="gcm3_chart_gradient_orange_end">#ED7E00</color>
+</resources>
